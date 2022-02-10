@@ -9,7 +9,7 @@ This package is adaptation of [draggable_bottom_sheet](https://pub.dev/packages/
 Add to dependencies
 
 ```yaml
-draggable_bottom_sheet_nullsafety: ^1.0.0
+draggable_bottom_sheet_nullsafety: ^1.0.1
 ```
 
 and import package
